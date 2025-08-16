@@ -3,6 +3,10 @@
 ## Description
 Parks is a SwiftUI app that interacts with the National Park Service (NPS) API, allowing users to explore U.S. national parks filtered by state. Users can select a park to view a detailed screen that provides comprehensive information, additional images, and a map showcasing the park's location. The project focuses on learning and implementing SwiftUI features such as async/await for API requests, lists and grids for data display, async image loading, navigation, and map integration.
 
+## Demo
+
+![Parks App Demo](https://github.com/user-attachments/assets/2d87571d-bed5-4ff5-b0df-c68db193e38a)
+
 ## Key Features
 - **View National Parks**: Fetch and display a list of national parks from the NPS API, filtered by state.
 - **Park Details**: Users can tap on a park to view its detailed information, including a description, images, and its location on a map.
@@ -10,13 +14,6 @@ Parks is a SwiftUI app that interacts with the National Park Service (NPS) API, 
   - Select a state from a dropdown menu to filter parks by state.
   - Sort parks alphabetically by name (ascending/descending).
   - Search for parks using a search bar.
-
-## GIFs
-**GIF of displaying the app including the LaunchScreen**
-
-![Parks App Demo](https://github.com/user-attachments/assets/2d87571d-bed5-4ff5-b0df-c68db193e38a)
-
-<br>
 
 ## Code Overview
 
